@@ -28,7 +28,7 @@ SECRET_KEY = '4#$v425oqp@=muhahm5md$a^%ee@zp%lm)(e%&q+6-i@j_(&*d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["'djangoreactapp.herokuapp.com','127.0.0.1'"]
+ALLOWED_HOSTS = ['djangoreactapp.herokuapp.com','127.0.0.1']
 
 CORS_ORIGIN_ALLOW_ALL=True
 
